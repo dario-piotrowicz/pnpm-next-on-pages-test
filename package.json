@@ -20,6 +20,7 @@
     "typescript": "5.0.2"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/4494378155/npm-package-next-on-pages-127"
+    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/4494378155/npm-package-next-on-pages-127",
+    "pnpm": "^7.30.0"
   }
 }
